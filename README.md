@@ -1,3 +1,6 @@
+# Program to write, append, or read files depending on format (normal txt or csv)
+
+```python
 import csv
 
 def read_as_txt(file_path):
